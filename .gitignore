@@ -3,3 +3,39 @@ __pycache__/
 *.log
 .env
 .vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.virtualenv/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Scrapy
+*.log
+.scrapy/
+*.csv
+*.json
+*.xml
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
